@@ -1,1 +1,2 @@
-# Naan_mudhalvan_projects
+django administration username: venkat
+password : admin
